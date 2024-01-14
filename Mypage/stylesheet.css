@@ -1,0 +1,58 @@
+html{
+    background-color: rgb(244, 255, 181);
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:30px;
+}
+.box1{
+    margin       : auto;
+    width        : auto;
+    height       : 8%;
+    background   : #ffffff;
+    border:solid
+#000000 2px;
+}
+.box2{
+    margin       : auto;
+    width        : auto;
+    height       : 12%;
+    background   : #ffffff;
+    border:solid
+#000000 2px;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+}
+.center{
+    display: flex;
+    margin: 0%;
+    justify-content: center;
+}
+.img{
+    width: 100%
+}
+.syumi{
+    display: flex;
+    margin: 0%;
+    justify-content: end;
+    color: blue;
+}
+.kyoutyou{
+    display: flex;
+    margin: 0%;
+    font-size: 45px;
+    justify-content: center;
+}
+.img2{
+    width: 50%;
+
+}
+.heiretu{
+    display: flex;
+    flex-wrap: wrap;
+}
+.twitter{
+    width: 5%;
+}
